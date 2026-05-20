@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">光学解锁</string>
+    <string name="title_activity_main">光学解锁</string>
+    <string name="package_name">com.optical.lock</string>
+    <string name="custom_url_scheme">com.optical.lock</string>
+</resources>
